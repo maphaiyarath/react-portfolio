@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.b8e8a5ae.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.31e55d0c.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.31e55d0c.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.f4806231.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.f4806231.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.db7919c5.chunk.js": "/react-portfolio/static/js/2.db7919c5.chunk.js",
+    "static/js/2.db7919c5.chunk.js.map": "/react-portfolio/static/js/2.db7919c5.chunk.js.map",
+    "static/js/3.7731a81f.chunk.js": "/react-portfolio/static/js/3.7731a81f.chunk.js",
+    "static/js/3.7731a81f.chunk.js.map": "/react-portfolio/static/js/3.7731a81f.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b8e8a5ae.chunk.css.map": "/react-portfolio/static/css/main.b8e8a5ae.chunk.css.map",
+    "static/js/2.db7919c5.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.db7919c5.chunk.js.LICENSE.txt",
+    "static/media/AphaiyarathMichelle_Resume_04-2020.a1d0d20e.pdf": "/react-portfolio/static/media/AphaiyarathMichelle_Resume_04-2020.a1d0d20e.pdf",
+    "static/media/employee-directory.93401c0e.png": "/react-portfolio/static/media/employee-directory.93401c0e.png",
+    "static/media/me-circle.3e661dd9.png": "/react-portfolio/static/media/me-circle.3e661dd9.png",
+    "static/media/og-burger-bar.70120f4e.png": "/react-portfolio/static/media/og-burger-bar.70120f4e.png",
+    "static/media/og-code-quiz.6c2032ac.png": "/react-portfolio/static/media/og-code-quiz.6c2032ac.png",
+    "static/media/og-fitness-tracker.7e739ea6.png": "/react-portfolio/static/media/og-fitness-tracker.7e739ea6.png",
+    "static/media/og-note-taker.9a52ff06.png": "/react-portfolio/static/media/og-note-taker.9a52ff06.png",
+    "static/media/og-radio-finder.90bd5be4.png": "/react-portfolio/static/media/og-radio-finder.90bd5be4.png",
+    "static/media/og-scheduler.959f0bda.png": "/react-portfolio/static/media/og-scheduler.959f0bda.png",
+    "static/media/og-weather-dash.1ff90516.png": "/react-portfolio/static/media/og-weather-dash.1ff90516.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4806231.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.db7919c5.chunk.js",
+    "static/css/main.b8e8a5ae.chunk.css",
+    "static/js/main.31e55d0c.chunk.js"
+  ]
+}
